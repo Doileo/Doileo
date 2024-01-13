@@ -1,3 +1,4 @@
+<img src="https://github.com/Doileo/Doileo/raw/main/Untitled design.png" alt="GitHub Banner">
 # Hi there! 👋
 
 I'm Doina, a frontend developer on a journey of continuous learning and growth. Welcome to my cozy corner on GitHub!
