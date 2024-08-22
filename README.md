@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm Doina, a frontend developer on a journey of continuous learning and growth. Welcome to my cozy corner on GitHub!
+I'm Doina, a frontend developer on a journey of continuous learning and growth. Welcome to my GitHub space!
 
 🚀 **Currently Crafting:** Building delightful user interfaces with a focus on React.
 
