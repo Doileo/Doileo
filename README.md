@@ -1,5 +1,4 @@
-<img src="https://github.com/Doileo/![Add a heading](https://github.com/user-attachments/assets/eb452dab-c67f-4d08-8eb5-25a084d4438b)
-Doileo/raw/main/Untitled design.png" alt="GitHub Banner">
+
 
 # Hi there! 👋
 
