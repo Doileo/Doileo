@@ -1,5 +1,4 @@
-![Add a heading](https://github.com/user-attachments/assets/6f6e2bd0-7119-448c-8a53-6b3d710c2fdf)
-
+![Add a heading (1)](https://github.com/user-attachments/assets/7457e1c8-a03d-42a5-b19e-4ca893ffe94a)
 
 # Hi there! 👋
 
