@@ -30,7 +30,7 @@ I believe in the power of learning. Currently, I'm diving into JS algorithms and
 
 - **LinkedIn:** [Doina Leovchin](https://www.linkedin.com/in/doinaleovchindeveloper/)
 
-Looking forward to connecting with fellow developers, designers, and anyone passionate about frontend development. Let's create amazing user experiences together!
+Looking forward to connecting with fellow developers, designers, and anyone passionate about web development. Let's create amazing user experiences together!
 
 Happy coding! 🌈
 
