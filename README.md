@@ -2,7 +2,8 @@
 
 # Hi there! 👋
 
-I'm Doina, a frontend developer on a journey of continuous learning and growth. Welcome to my GitHub space!
+I’m Doina, a front-end developer who loves learning and growing. This GitHub space is where I document my coding journey. I’m focused on improving my skills and building meaningful projects. Thanks for stopping by!
+
 
 🚀 **Currently Crafting:** Building delightful user interfaces with a focus on React.
 
@@ -10,7 +11,8 @@ I'm Doina, a frontend developer on a journey of continuous learning and growth. 
 
 💬 **Let's Chat:** I value open communication! Feel free to reach out if you want to discuss anything frontend, exchange ideas, or just have a friendly conversation.
 
-⚡ **Fun fact:** When I'm not coding, I love capturing the beauty of the sky through photography!
+⚡ **Fun Fact:** When I’m not coding, I love capturing the beauty of the sky through photography. It helps me stay grounded and inspires my creativity.
+
 
 ## 🛠️ Tech Stack
 
@@ -22,15 +24,18 @@ I'm Doina, a frontend developer on a journey of continuous learning and growth. 
 - **IDE/Code Editor:** Visual Studio Code
 - **Hosting/Deployment:** Netlify, Vercel, GitHub Pages
 
+
 ## 📚 Learning Journey
 
-I believe in the power of learning. Currently, I'm diving into JS algorithms and data structures. Excited to share insights and experiences along the way!
+I’m always curious and eager to learn more. Right now, I’m focusing on JavaScript algorithms and data structures. I find joy in improving step by step and sharing what I learn along the way.
+
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Doina Leovchin](https://www.linkedin.com/in/doinaleovchindeveloper/)
+- **LinkedIn:** [Doina Levchin](https://www.linkedin.com/in/doinalevchin)
 
-Looking forward to connecting with fellow developers, designers, and anyone passionate about web development. Let's create amazing user experiences together!
+I’m always open to connecting with new people. If you’re a developer, designer, or just someone who shares a love for building things, feel free to reach out. Let’s learn and grow together!
+
 
 Happy coding! 🌈
 
