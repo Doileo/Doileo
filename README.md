@@ -1,6 +1,6 @@
-![Add a heading (1)](https://github.com/user-attachments/assets/7457e1c8-a03d-42a5-b19e-4ca893ffe94a)
-
+![Add a heading (1)](https://github.com/user-attachments/assets/ecc00395-63d1-4c6c-a1d1-f0320a79cec8)
 # Hi there! 👋
+
 
 I’m Doina, a front-end developer who loves learning and growing. This GitHub space is where I document my coding journey. I’m focused on improving my skills and building meaningful projects. Thanks for stopping by!
 
