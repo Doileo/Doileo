@@ -10,7 +10,10 @@ Building user interfaces that are not only functional but also visually appealin
 
 💬 **Let's Chat:** I value open communication! Feel free to reach out if you want to discuss frontend topics, exchange ideas, or just have a friendly conversation.
 
-⚡ **Fun Fact:** When I’m not coding, I love capturing the beauty of the sky through photography. It keeps me grounded and fuels my creativity.
+## ⚡ Fun Fact
+When I’m not coding, I love capturing the beauty of the sky through photography. It helps me stay grounded and inspires my creativity. 
+![Camera Animation](https://media.giphy.com/media/JA8X1yjBnTaZW/giphy.gif) 
+
 
 ## 🛠️ Tech Stack
 
