@@ -27,7 +27,7 @@ When I’m not coding, I love capturing the beauty of the sky through photograph
 
 ## 📚 Learning Journey
 
-I’m always curious and eager to expand my knowledge. Currently, I’m mastering algorithms like quicksort and studying data structures such as trees and graphs. I enjoy sharing my learning process and progress!
+I’m always curious and eager to expand my knowledge. I’m dedicated to enhancing my skills in **React** while prioritizing **accessibility** to ensure that my projects are inclusive and user-friendly. I enjoy sharing my learning process and progress!
 
 ## 📫 Let's Connect
 
