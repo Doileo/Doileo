@@ -1,14 +1,14 @@
 ![Add a heading (1)](https://github.com/user-attachments/assets/ecc00395-63d1-4c6c-a1d1-f0320a79cec8)
 # Hi there! 👋
 
-I’m Doina, a passionate front-end developer dedicated to creating delightful user experiences. As an ENFJ-A, I thrive on collaboration and helping others grow. This GitHub space is where I document my coding journey and share my growth in the tech world. Thank you for stopping by!
+I’m Doina, a passionate front-end developer focused on creating delightful user experiences. As an ENFJ-A, I enjoy collaborating and building meaningful connections. This GitHub space is where I share my coding journey and growth in the tech world. Thank you for stopping by!
 
 🚀 **Currently Crafting:** 
-Building user interfaces that are not only functional but also visually appealing, with a focus on React. Check out my latest projects below!
+I’m building user interfaces that are both functional and visually appealing, with a focus on React. Check out my latest projects below!
 
-🌱 **Always Learning:** I’m diving into new frontend trends and tools, with a current focus on advanced JavaScript algorithms and data structures, such as sorting and searching algorithms. I'm open to collaborations and eager to share insights.
+🌱 **Always Learning:** I’m diving into new frontend trends, especially around making websites more accessible for everyone. I believe in creating inclusive experiences and would love to connect with others who share this passion.
 
-💬 **Let's Chat:** I value open communication! Feel free to reach out if you want to discuss frontend topics, exchange ideas, or just have a friendly conversation.
+💬 **Let's Chat:** I value open communication! Feel free to reach out to discuss frontend topics, exchange ideas, or just have a friendly chat.
 
 ## ⚡ Fun Fact
 When I’m not coding, I love capturing the beauty of the sky through photography. It helps me stay grounded and inspires my creativity. 
@@ -28,12 +28,12 @@ When I’m not coding, I love capturing the beauty of the sky through photograph
 
 ## 📚 Learning Journey
 
-I’m always curious and eager to expand my knowledge. I’m dedicated to enhancing my skills in **React** while prioritizing **accessibility** to ensure that my projects are inclusive and user-friendly. I enjoy sharing my learning process and progress!
+I’m always eager to expand my knowledge, focusing on React and accessibility to ensure my projects are inclusive and user-friendly. I enjoy sharing my learning process along the way!
 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Doina Levchin](https://www.linkedin.com/in/doinalevchin)
 
-I’m always open to connecting with new people. If you’re a developer, designer, or someone who shares a love for building things, feel free to reach out. Let’s learn and grow together!
+I’m always open to connecting with new people. If you’re a developer, designer, or someone who loves building things, let’s connect and grow together!
 
 Check out my projects below and happy coding! 🌈
