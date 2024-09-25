@@ -20,6 +20,7 @@ When I’m not coding, I love capturing the beauty of the sky through photograph
 - **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - **Frameworks/Libraries:** ![React](https://img.shields.io/badge/React-16.13.1-blue)
 - **Version Control:** Git
+- **Performance Tools:** Lighthouse
 - **Browser DevTools:** Chrome DevTools, Firefox Developer Tools
 - **Design Tools:** Figma
 - **IDE/Code Editor:** Visual Studio Code
