@@ -1,7 +1,9 @@
 ![Add a heading (1)](https://github.com/user-attachments/assets/ecc00395-63d1-4c6c-a1d1-f0320a79cec8)
 # Hi there! 👋
 
-I’m Doina, a passionate front-end developer focused on creating delightful user experiences. As an ENFJ-A, I enjoy collaborating and building meaningful connections. This GitHub space is where I share my coding journey and growth in the tech world. Thank you for stopping by!
+I’m Doina, a front-end developer who’s passionate about creating user experiences that are not only functional but thoughtful. Frontend development brings me back to the days when I ran my small business, where I put care into every detail—from how I packaged orders to how I connected with customers. Now, I bring that same heart into my coding, focusing on making things accessible and enjoyable for everyone. As an ENFJ-A, I love collaborating and building meaningful connections, and I’m always eager to learn and grow along the way.
+
+Thank you so much for stopping by—I’d love to connect!
 
 🚀 **Currently Crafting:** 
 I’m building user interfaces that are both functional and visually appealing, with a focus on React. Check out my latest projects below!
