@@ -5,12 +5,14 @@ I’m Doina, a front-end developer who’s passionate about creating user experi
 
 Thank you so much for stopping by—I’d love to connect!
 
-🚀 **Currently Crafting:** 
-I’m building user interfaces that are both functional and visually appealing, with a focus on React. Check out my latest projects below!
+## 🚀 Currently Seeking ##
+I’m actively looking for front-end developer roles where I can apply my skills in building engaging, accessible, and user-friendly interfaces using React. Let’s connect to explore opportunities!
 
-🌱 **Always Learning:** I’m diving into new frontend trends, especially around making websites more accessible for everyone. I believe in creating inclusive experiences and would love to connect with others who share this passion.
+## 🌱 Always Learning ##
+I’m diving into the latest front-end trends, especially around accessibility. My goal is to create websites that are inclusive for everyone, and I’m always eager to connect with others who share this passion.
 
-💬 **Let's Chat:** I value open communication! Feel free to reach out to discuss frontend topics, exchange ideas, or just have a friendly chat.
+## 💬 Let’s Chat ##
+I value open communication! Feel free to reach out to discuss front-end topics, exchange ideas, or just have a friendly conversation. Whether it's coding or user experience, I'm always excited to chat.
 
 ## ⚡ Fun Fact
 When I’m not coding, I love capturing the beauty of the sky through photography. It helps me stay grounded and inspires my creativity. 
@@ -30,12 +32,13 @@ When I’m not coding, I love capturing the beauty of the sky through photograph
 
 ## 📚 Learning Journey
 
-I’m always eager to expand my knowledge, focusing on React and accessibility to ensure my projects are inclusive and user-friendly. I enjoy sharing my learning process along the way!
+I’m always eager to expand my knowledge, currently focusing on React and web accessibility to ensure my projects are inclusive and user-friendly. I love sharing my learning process and challenges along the way.
 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Doina Levchin](https://www.linkedin.com/in/doinalevchin)
+- **Email:** [doina.leovchin.dev@gmail.com](mailto:doina.leovchin.dev@gmail.com)
 
-I’m always open to connecting with new people. If you’re a developer, designer, or someone who loves building things, let’s connect and grow together!
+✨ Feel free to check out my pinned projects below—each one is a reflection of my journey and growth as a developer. You can find detailed descriptions, goals, and insights into how I approached building them in their respective README files. Happy coding! 🌈
 
-Check out my projects below and happy coding! 🌈
+
