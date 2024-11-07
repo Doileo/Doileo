@@ -9,16 +9,17 @@ I believe in the power of collaboration, sharing knowledge, and celebrating the 
 I’m always open to connecting and learning from others—thanks for stopping by my profile!
 
 ## 🚀 Currently Seeking ##
-I’m actively looking for front-end developer roles where I can apply my skills in building engaging, accessible, and user-friendly interfaces using React. I’m particularly interested in roles that focus on web accessibility and creating inclusive digital experiences. Let’s connect to explore opportunities!
+I’m actively looking for front-end developer opportunities where I can leverage my skills to build engaging, accessible, and user-friendly interfaces using **React**. I’m especially passionate about roles that emphasize web accessibility and creating inclusive digital experiences. If you’re interested in collaborating or exploring opportunities, let’s connect!
+
 
 ## 🌱 Always Learning ##
-I’m diving into the latest front-end trends, especially around accessibility and TypeScript. My goal is to create inclusive websites, and I’m eager to connect with others who share this passion.
+I’m continually honing my front-end skills, diving deep into the latest trends, particularly around **accessibility** and **TypeScript**. My goal is to create inclusive, user-first websites, and I’m excited to connect with others who share this passion for innovation and accessibility.
 
 ## 💬 Let’s Chat ##
-I value open communication! Feel free to reach out to discuss front-end topics, exchange ideas, or just have a friendly conversation. Whether it's coding or user experience, I'm always excited to chat.
+I believe in the power of open communication and knowledge-sharing! Whether it’s about front-end development, accessibility, or just exchanging ideas on user experience, feel free to reach out. I’m always eager to learn from others and have meaningful conversations!
 
 ## ⚡ Fun Fact
-When I’m not coding, I love capturing the beauty of the sky through photography. It helps me stay grounded and inspires my creativity. 
+When I’m not coding, you’ll often find me behind the lens capturing the beauty of the sky. Photography keeps me grounded and fuels my creativity—both in life and in my work.
 ![Camera Animation](https://media.giphy.com/media/JA8X1yjBnTaZW/giphy.gif) 
 
 
