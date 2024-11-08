@@ -12,7 +12,7 @@ I’m always open to connecting and learning from others—thanks for stopping b
 I’m actively looking for front-end developer opportunities where I can leverage my skills to build engaging, accessible, and user-friendly interfaces using **React**. I’m especially passionate about roles that emphasize web accessibility and creating inclusive digital experiences. If you’re interested in collaborating or exploring opportunities, let’s connect!
 
 
-## 🌱 Always Learning ##
+## 🌱 Current Learning Focus ##
 I’m continually honing my front-end skills, diving deep into the latest trends, particularly around **accessibility** and **TypeScript**. My goal is to create inclusive, user-first websites, and I’m excited to connect with others who share this passion for innovation and accessibility.
 
 ## 💬 Let’s Chat ##
@@ -36,13 +36,13 @@ When I’m not coding, you’ll often find me behind the lens capturing the beau
 
 ## 📚 Learning Journey
 
-I’m committed to expanding my knowledge, currently focusing on React, TypeScript, and web accessibility to ensure my projects are inclusive and user-friendly. I love sharing my learning process and the challenges I encounter along the way.
+I’m continuously expanding my knowledge, with a focus on React, TypeScript, and web accessibility to create projects that are user-centric and inclusive. I’m passionate about documenting my learning process, sharing the challenges I encounter, and celebrating progress along the way.
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Doina Levchin](https://www.linkedin.com/in/doinalevchin)
-- **Email:** [doina.leovchin.dev@gmail.com](mailto:doina.leovchin.dev@gmail.com)
+- **LinkedIn:** [Doina Levchin](https://www.linkedin.com/in/doinalevchin) - I share insights, connect with like-minded professionals, and stay updated on industry trends.
+- **Email:** [doina.leovchin.dev@gmail.com](mailto:doina.leovchin.dev@gmail.com) - Feel free to reach out for collaboration, discussion, or just to say hi!
 
-✨ Feel free to check out my pinned projects below—each one is a reflection of my journey and growth as a developer. You can find detailed descriptions, goals, and insights into how I approached building them in their respective README files. Happy coding! 🌈
+✨ **Check out my pinned projects below** for an inside look at my growth as a developer. Each project’s README offers a detailed breakdown of my approach, goals, and insights gained. Happy coding! 🌈
 
 
